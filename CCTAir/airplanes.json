@@ -1,0 +1,106 @@
+
+ [{
+            "type": "AirPlane",
+            "properties":{
+			     "make": "Airbus",
+			     "model": "A380",
+			     "capacity": 300,
+                 "pilot":{
+                    
+			             "firstName": "Unassigned",
+			             "surname": "Unassigned",
+			             "rank": "Unassigned",
+			             "age": 0   
+                 }
+            }
+		},
+  {
+            "type": "AirPlane",
+            "properties":{
+			     "make": "Boeing",
+			"model": "727",
+			"capacity": 189,
+                 "pilot":{
+                    
+			           "firstName": "Unassigned",
+			             "surname": "Unassigned",
+			             "rank": "Unassigned",
+			             "age": 0     
+                 }
+            }
+		},
+  {
+            "type": "AirPlane",
+            "properties":{
+			   "make": "Boeing",
+			"model": "767",
+			"capacity": 375,
+                 "pilot":{
+                    
+			            "firstName": "Unassigned",
+			             "surname": "Unassigned",
+			             "rank": "Unassigned",
+			             "age": 0     
+                 }
+            }
+		},
+  {
+            "type": "AirPlane",
+            "properties":{
+			    "make": "Boeing",
+			"model": "757",
+			"capacity": 239,
+                 "pilot":{
+                    
+			             "firstName": "Unassigned",
+			             "surname": "Unassigned",
+			             "rank": "Unassigned",
+			             "age": 0    
+                 }
+            }
+		},
+  {
+            "type": "AirPlane",
+            "properties":{
+			     "make": "Airbus",
+			     "model": "A380",
+			     "capacity": 260,
+                 "pilot":{
+                    
+			            "firstName": "Unassigned",
+			             "surname": "Unassigned",
+			             "rank": "Unassigned",
+			             "age": 0     
+                 }
+            }
+		},
+  {
+            "type": "AirPlane",
+            "properties":{
+			    "make": "Boeing",
+			"model": "737",
+			"capacity": 149,
+                 "pilot":{
+                    "firstName": "Unassigned",
+			             "surname": "Unassigned",
+			             "rank": "Unassigned",
+			             "age": 0     
+                 }
+            }
+		},
+  {
+            "type": "AirPlane",
+            "properties":{
+			     "make": "Boeing",
+			"model": "787",
+			"capacity": 335,
+                 "pilot":{
+                    
+			             "firstName": "Unassigned",
+			             "surname": "Unassigned",
+			             "rank": "Unassigned",
+			             "age": 0    
+                 }
+            }
+		}
+	]
